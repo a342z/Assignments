@@ -1,0 +1,6 @@
+c:\users\zaki\documents\visual studio 2017\Projects\NumberToWordConverter\NumberToWordConverter\bin\Debug\NumberToWordConverter.exe.config
+c:\users\zaki\documents\visual studio 2017\Projects\NumberToWordConverter\NumberToWordConverter\bin\Debug\NumberToWordConverter.exe
+c:\users\zaki\documents\visual studio 2017\Projects\NumberToWordConverter\NumberToWordConverter\bin\Debug\NumberToWordConverter.pdb
+c:\users\zaki\documents\visual studio 2017\Projects\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.csprojResolveAssemblyReference.cache
+c:\users\zaki\documents\visual studio 2017\Projects\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.exe
+c:\users\zaki\documents\visual studio 2017\Projects\NumberToWordConverter\NumberToWordConverter\obj\Debug\NumberToWordConverter.pdb
