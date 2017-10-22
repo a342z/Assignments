@@ -1,0 +1,5 @@
+C:\Users\zaki\Documents\Visual Studio 2017\Projects\ValueOfBit\ValueOfBit\bin\Debug\ValueOfBit.exe.config
+C:\Users\zaki\Documents\Visual Studio 2017\Projects\ValueOfBit\ValueOfBit\bin\Debug\ValueOfBit.exe
+C:\Users\zaki\Documents\Visual Studio 2017\Projects\ValueOfBit\ValueOfBit\bin\Debug\ValueOfBit.pdb
+C:\Users\zaki\Documents\Visual Studio 2017\Projects\ValueOfBit\ValueOfBit\obj\Debug\ValueOfBit.exe
+C:\Users\zaki\Documents\Visual Studio 2017\Projects\ValueOfBit\ValueOfBit\obj\Debug\ValueOfBit.pdb
