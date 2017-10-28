@@ -1,0 +1,6 @@
+c:\users\zaki\documents\visual studio 2017\Projects\HexToDec\HexToDec\bin\Debug\HexToDec.exe.config
+c:\users\zaki\documents\visual studio 2017\Projects\HexToDec\HexToDec\bin\Debug\HexToDec.exe
+c:\users\zaki\documents\visual studio 2017\Projects\HexToDec\HexToDec\bin\Debug\HexToDec.pdb
+c:\users\zaki\documents\visual studio 2017\Projects\HexToDec\HexToDec\obj\Debug\HexToDec.csprojResolveAssemblyReference.cache
+c:\users\zaki\documents\visual studio 2017\Projects\HexToDec\HexToDec\obj\Debug\HexToDec.exe
+c:\users\zaki\documents\visual studio 2017\Projects\HexToDec\HexToDec\obj\Debug\HexToDec.pdb
