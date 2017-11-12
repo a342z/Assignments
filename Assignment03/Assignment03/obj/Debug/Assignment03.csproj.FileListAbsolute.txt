@@ -1,0 +1,6 @@
+c:\users\zaki\documents\visual studio 2017\Projects\Assignment03\Assignment03\bin\Debug\Assignment03.exe.config
+c:\users\zaki\documents\visual studio 2017\Projects\Assignment03\Assignment03\bin\Debug\Assignment03.exe
+c:\users\zaki\documents\visual studio 2017\Projects\Assignment03\Assignment03\bin\Debug\Assignment03.pdb
+c:\users\zaki\documents\visual studio 2017\Projects\Assignment03\Assignment03\obj\Debug\Assignment03.csprojResolveAssemblyReference.cache
+c:\users\zaki\documents\visual studio 2017\Projects\Assignment03\Assignment03\obj\Debug\Assignment03.exe
+c:\users\zaki\documents\visual studio 2017\Projects\Assignment03\Assignment03\obj\Debug\Assignment03.pdb
